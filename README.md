@@ -22,6 +22,6 @@ C. Fitur Interaktif:
 D. Integrasi Musik:
 * Menggabungkan representasi visual gelombang yang disinkronkan dengan musik untuk pengalaman pengguna yang lebih baik.
 
-### **Catatan: Meskipun visualisasi terhubung dengan musik, tidak ada hubungan konseptual antara gelombang suara dan gelombang melintang karena simulasi berfokus pada representasi gelombang melintang**
+### **Catatan: Meskipun visualisasi terhubung dengan musik, tidak ada hubungan konseptual antara gelombang suara dan gelombang yang dihasilkan karena simulasi berfokus pada gerakan melingkar lingkaran**
 
 
